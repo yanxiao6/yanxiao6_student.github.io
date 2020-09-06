@@ -83,7 +83,7 @@ author:
   name             : "Dr. Yan XIAO"
   avatar           : "profile.png"
   bio              : "Research fellow of NUS"
-  location         : "COM2, School of Computing, 13 Computing Drive"
+  location         : "COM2, School of Computing"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rSL_uscAAAAJ&hl=en"
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
